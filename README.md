@@ -4,12 +4,17 @@ A short, and simple, Bash Script calculator that can perform simple calculations
 The program is capable of calculating additions, subtractions, multiplications, divisions, power calculations and remainder calculations. 
 Here are the symbols for the operators...
 
-+   ===> addition
--   ===> subtraction
-x   ===> multiplication
-/   ===> division
-^   ===> power calculation
-%   ===> remainder calculation
+"+"   ===> addition
+  
+"-"   ===> subtraction
+
+"x"   ===> multiplication
+
+"/"   ===> division
+
+"^"   ===> power calculation
+
+"%"   ===> remainder calculation
 
 NOTE! The calculations only work between two numbers. The program can't handle calculations between, for instance, three or more numbers.
 You need to use precisely three arguments and they have to be separated with a space. Should they have no spaces between, the program will
