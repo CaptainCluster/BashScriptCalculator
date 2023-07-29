@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#CaptainCluster https://github.com/CaptainCluster
+
 #This if-condition makes sure that the user inserts precisely
 #three arguments. The way these arguments work are explained
 #clearly in the README file.
